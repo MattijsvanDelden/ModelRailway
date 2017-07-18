@@ -1,5 +1,4 @@
-﻿// Model railway in C# by Mattijs
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 

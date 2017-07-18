@@ -1,5 +1,4 @@
-﻿// Model railway in C# by Mattijs
-/*
+﻿/*
 
 using UnityEngine;
 

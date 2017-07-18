@@ -1,5 +1,4 @@
-﻿// Model railway in C# by Mattijs
-namespace ModelRailway
+﻿namespace ModelRailway
 {
 	class RigidRailPiece : RailPiece
 	{

@@ -1,5 +1,3 @@
-// Model railway in C# by Mattijs
-
 using UnityEngine;
 using Debug=System.Diagnostics.Debug;
 

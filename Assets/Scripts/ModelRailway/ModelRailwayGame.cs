@@ -101,8 +101,6 @@ public class ModelRailwayGame : Game.Game
 
 /*
 
-// Model railway in C# by Mattijs
-
 using System;
 using System.Collections.Generic;
 using System.IO;

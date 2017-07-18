@@ -1,4 +1,3 @@
-// Model railway in C# by Mattijs
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
